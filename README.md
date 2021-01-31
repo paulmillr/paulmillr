@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in open-source, learning more about markets & infosec. Check out [my blog](https://paulmillr.com) & [Hell Yeah](https://hy.dev).
+I'm interested in open-source, learning more about markets & infosec. Check out [my blog](https://paulmillr.com), [Twitter](https://twitter.com/paulmillr) & [Hell Yeah](https://hy.dev).
 My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt).
 
 🔭 My current projects:
