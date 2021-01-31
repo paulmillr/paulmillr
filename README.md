@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I make projects which help developers to build awesome things.
-I solve problems related to online businesses at [Hell Yeah](https://github.com/hy-dev).
-I'm interested in learning more about markets & infosec.
+I'm interested open-source, in learning more about markets & infosec. Check out [my blog](https://paulmillr.com) & [Hell Yeah](https://hy.dev).
 My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt).
 
-My current projects:
+🔭 My current projects:
 
 - **noble** - 0-dep cryptographic libraries: [secp256k1](https://github.com/paulmillr/noble-secp256k1), [ed25519](https://github.com/paulmillr/noble-ed25519), [bls12-381](https://github.com/paulmillr/noble-bls12-381)
 - [chokidar](https://github.com/paulmillr/chokidar) - file watcher used in MS VSCode. Over 1 billion downloads per year
