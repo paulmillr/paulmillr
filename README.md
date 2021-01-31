@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I make projects which help developers to build awesome things.
-I solve problems related to online businesses at [Hell Yeah](https://github.com/hy__dev).
+I solve problems related to online businesses at [Hell Yeah](https://github.com/hy-dev).
 I'm interested in learning more about markets & infosec.
 My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt).
 
