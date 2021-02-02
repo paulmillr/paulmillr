@@ -7,7 +7,7 @@ My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt).
 
 - **noble** - 0-dependency cryptographic libraries: [secp256k1](https://github.com/paulmillr/noble-secp256k1), [ed25519](https://github.com/paulmillr/noble-ed25519), [bls12-381](https://github.com/paulmillr/noble-bls12-381)
 - [chokidar](https://github.com/paulmillr/chokidar) - file watcher used in MS VSCode. Over 1 billion downloads per year
-- [dotfiles](https://github.com/paulmillr/dotfiles) - colorful and robust MacOS configuration files and utilities
+- [dotfiles](https://github.com/paulmillr/dotfiles) - colorful and robust configuration files and utilities for Mac, Linux and BSD
 - [encrypted-dns](https://github.com/paulmillr/encrypted-dns) - configuration profiles for DNS over HTTPS / TLS
 
 Past projects:
