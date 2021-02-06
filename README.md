@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm interested in open-source, free markets & infosec. Check out [my blog](https://paulmillr.com), [twitter](https://twitter.com/paulmillr) & [Hell Yeah](https://hy.dev).
-My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt) 🥩.
+My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt) 🥩
 
 🔭 I’m currently working on:
 
