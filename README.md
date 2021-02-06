@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I'm interested in open-source, free markets & infosec. Check out [my blog](https://paulmillr.com), [twitter](https://twitter.com/paulmillr) & [Hell Yeah](https://hy.dev).
-My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt).
+My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt) 🥩.
 
-🔭 My current projects:
+🔭 I’m currently working on:
 
 - **noble** - 0-dependency cryptographic libraries: [secp256k1](https://github.com/paulmillr/noble-secp256k1), [ed25519](https://github.com/paulmillr/noble-ed25519), [bls12-381](https://github.com/paulmillr/noble-bls12-381)
 - [chokidar](https://github.com/paulmillr/chokidar) - file watcher used in MS VSCode. Over 1 billion downloads per year
