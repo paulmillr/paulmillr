@@ -13,6 +13,6 @@ My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt) 🥩
 Past projects:
 
 - (2012) [chaplin](https://github.com/chaplinjs/chaplin) - MVC architecture on top of Backbone & CoffeeScript
-- (2011) [brunch](https://github.com/brunch/brunch) - web app builder with an emphasis on speed & simplicity, with 50+ plugins
+- (2011) [brunch](https://github.com/brunch/brunch) - web app builder with an emphasis on speed & simplicity, with 50+ plugins. Built a nice community around it. Brunch was used to build one of the first Uber web apps
 - (2011) [es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JS engines
 - (2011) [chieftain](https://github.com/paulmillr/chieftain) - pythonic imageboard
