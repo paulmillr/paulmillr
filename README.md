@@ -10,6 +10,16 @@ My PGP is [46BEEF337A641ABB](https://paulmillr.com/pgp_proof.txt) 🥩
 - [dotfiles](https://github.com/paulmillr/dotfiles) - colorful and robust configuration files and utilities for Mac, Linux and BSD
 - [encrypted-dns](https://github.com/paulmillr/encrypted-dns) - configuration profiles for DNS over HTTPS / TLS
 
+A bunch of micro-packages that use no deps or very minimal deps:
+
+- [micro-eth-signer](https://github.com/paulmillr/micro-eth-signer) - create, sign and validate Ethereum transactions & addresses with <500 lines of code
+- [micro-ftch](https://github.com/paulmillr/micro-ftch) - tiny optimized `fetch()`-like node.js and browser method with binary/JSON, CORS, redirects & SSL pinning
+- [micro-base58](https://github.com/paulmillr/micro-base58) - fast and beautiful base58 encoder
+- [micro-bmark](https://github.com/paulmillr/micro-bmark) - benchmark your node.js projects with nanosecond resolution 
+- [bls12-381-keygen](https://github.com/paulmillr/bls12-381-keygen) - BLS12-381 Key Generation compatible with EIP-2333. Used in iancoleman's [eip2333-tool](https://iancoleman.io/eip2333/)
+
+You may be also interested in [papers I save](https://github.com/paulmillr/papers).
+
 Past projects:
 
 - (2012) [chaplin](https://github.com/chaplinjs/chaplin) - MVC architecture on top of Backbone & CoffeeScript
