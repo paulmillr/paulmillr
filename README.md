@@ -2,7 +2,7 @@
 
 I make projects which help developers to build awesome things. I adore learning more about infosec & austrian economics.
 
-Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter.com/paulmillr) / [nostr](https://paulmillr.com/demos/nostr/#?user=npub10jcnehsxwrjepupvh602pl83up0dh3wv3fqfwv062smygqvpeuwsk03kag). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt). You could fund my work with [GH Sponsorship](https://github.com/sponsors/paulmillr/).
+Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter.com/paulmillr) / [nostr](https://paulmillr.com/demos/nostr/#?user=npub10jcnehsxwrjepupvh602pl83up0dh3wv3fqfwv062smygqvpeuwsk03kag). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt). You could fund my work with [sponsorship](https://github.com/sponsors/paulmillr/).
 
 🔭 I’m currently working on:
 
@@ -14,5 +14,5 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 - **demos:** [nostr.spa](http://nostr.spa) privacy-friendly nostr web app, [qr](https://paulmillr.com/demos/qr/), [steganography](https://paulmillr.com/demos/steg/), [elliptic curve calculator](https://paulmillr.com/noble/#demo)
 
 
-Signed backups of all repositories: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
-Old projects from 2011-2012: [brunch](https://github.com/brunch/brunch), [chaplin](https://github.com/chaplinjs/chaplin), [es6-shim](https://github.com/paulmillr/es6-shim), [chieftain](https://github.com/paulmillr/chieftain)
+Signed backups: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
+Old projects: [brunch](https://github.com/brunch/brunch), [chaplin](https://github.com/chaplinjs/chaplin), [es6-shim](https://github.com/paulmillr/es6-shim), [chieftain](https://github.com/paulmillr/chieftain)
