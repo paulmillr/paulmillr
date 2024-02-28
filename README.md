@@ -6,7 +6,7 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 
 🔭 I’m currently working on:
 
-- [**noble**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes)
+- [**noble**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes), [post-quantum](https://github.com/paulmillr/noble-post-quantum)
 - **scure** audited micro-libraries — [base](https://github.com/paulmillr/scure-base), [bip32](https://github.com/paulmillr/scure-bip32), [bip39](https://github.com/paulmillr/scure-bip39), [btc-signer](https://github.com/paulmillr/scure-btc-signer), [starknet](https://github.com/paulmillr/scure-starknet)
 - web3: [js-eth-cryptography](https://github.com/ethereum/js-ethereum-cryptography), [eth-signer](https://github.com/paulmillr/micro-eth-signer), [sol-signer](https://github.com/paulmillr/micro-sol-signer), [tx-tor-broadcaster](https://github.com/paulmillr/tx-tor-broadcaster)
 - security: [nip44](https://github.com/paulmillr/nip44), [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [ed25519-keygen](https://github.com/paulmillr/ed25519-keygen) (ssh/pgp/tor), [bls12-381-keygen](https://github.com/paulmillr/bls12-381-keygen), [otp](https://github.com/paulmillr/micro-otp), [password-generator](https://github.com/paulmillr/micro-password-generator), [steganography](https://github.com/paulmillr/steg)
