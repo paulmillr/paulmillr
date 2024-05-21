@@ -13,7 +13,7 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 - web3: [js-eth-cryptography](https://github.com/ethereum/js-ethereum-cryptography), [eth-signer](https://github.com/paulmillr/micro-eth-signer), [sol-signer](https://github.com/paulmillr/micro-sol-signer), [ordinals](https://github.com/paulmillr/micro-ordinals)
 - security: [nip44](https://github.com/paulmillr/nip44), [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [ed25519-keygen](https://github.com/paulmillr/ed25519-keygen) (ssh/pgp/tor), [bls12-381-keygen](https://github.com/paulmillr/bls12-381-keygen), [otp](https://github.com/paulmillr/micro-otp), [password-generator](https://github.com/paulmillr/micro-password-generator), [steganography](https://github.com/paulmillr/steg)
 - others: [chokidar](https://github.com/paulmillr/chokidar), [qr](https://github.com/paulmillr/qr) (reader & encoder), [packed](https://github.com/paulmillr/micro-packed), [dotfiles](https://github.com/paulmillr/dotfiles)
-- demos: [nostr.spa](http://nostr.spa) privacy-friendly nostr web app, [qr](https://paulmillr.com/demos/qr/), [steganography](https://paulmillr.com/demos/steg/), [elliptic curve calculator](https://paulmillr.com/noble/#demo)
+- apps: [nostr.spa](http://nostr.spa) privacy-friendly nostr web app, [qr](https://paulmillr.com/demos/qr/), [steganography](https://paulmillr.com/demos/steg/), [elliptic curve calculator](https://paulmillr.com/noble/#demo)
 
 
 Signed backups: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup) / [codeberg](https://codeberg.org/paulmillr).
