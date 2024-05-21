@@ -18,3 +18,5 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 
 Signed backups: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
 Old projects: [brunch](https://github.com/brunch/brunch), [chaplin](https://github.com/chaplinjs/chaplin), [es6-shim](https://github.com/paulmillr/es6-shim), [chieftain](https://github.com/paulmillr/chieftain)
+
+![](https://raw.githubusercontent.com/paulmillr/paulmillr/main/profile-3d-contrib/profile-season-animate.svg)
