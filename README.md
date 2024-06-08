@@ -18,4 +18,3 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 
 Signed backups: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup) / [codeberg](https://codeberg.org/paulmillr)
 
-![](https://raw.githubusercontent.com/paulmillr/paulmillr/main/profile-3d-contrib/profile-season-animate.svg)
