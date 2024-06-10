@@ -6,9 +6,7 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 
 🔭 I’m currently working on:
 
-- [**noble**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes), [post-quantum](https://github.com/paulmillr/noble-post-quantum),
-  4kb [secp256k1](https://github.com/paulmillr/noble-secp256k1) /
-  [ed25519](https://github.com/paulmillr/noble-ed25519)
+- [**noble**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes), [post-quantum](https://github.com/paulmillr/noble-post-quantum)
 - **scure** audited micro-libraries — [base](https://github.com/paulmillr/scure-base), [bip32](https://github.com/paulmillr/scure-bip32), [bip39](https://github.com/paulmillr/scure-bip39), [btc-signer](https://github.com/paulmillr/scure-btc-signer), [starknet](https://github.com/paulmillr/scure-starknet)
 - web3: [eth-signer](https://github.com/paulmillr/micro-eth-signer), [sol-signer](https://github.com/paulmillr/micro-sol-signer), [ordinals](https://github.com/paulmillr/micro-ordinals)
 - security: [key-producer](https://github.com/paulmillr/micro-key-producer), [nip44](https://github.com/paulmillr/nip44), [encrypted-dns](https://github.com/paulmillr/encrypted-dns)
