@@ -9,8 +9,10 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 - [**noble**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes), [post-quantum](https://github.com/paulmillr/noble-post-quantum)
 - **scure** audited micro-libraries — [base](https://github.com/paulmillr/scure-base), [bip32](https://github.com/paulmillr/scure-bip32), [bip39](https://github.com/paulmillr/scure-bip39), [btc-signer](https://github.com/paulmillr/scure-btc-signer), [starknet](https://github.com/paulmillr/scure-starknet)
 - chains: [eth-signer](https://github.com/paulmillr/micro-eth-signer), [sol-signer](https://github.com/paulmillr/micro-sol-signer), [ordinals](https://github.com/paulmillr/micro-ordinals)
-- security: [key-producer](https://github.com/paulmillr/micro-key-producer), nostr [nip44](https://github.com/paulmillr/nip44), [sr25519](https://github.com/paulmillr/micro-sr25519), [rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh), [encrypted-dns](https://github.com/paulmillr/encrypted-dns)
-- others: [chokidar](https://github.com/paulmillr/chokidar), [qr](https://github.com/paulmillr/qr), [packed](https://github.com/paulmillr/micro-packed), [micro-ftch](https://github.com/paulmillr/micro-ftch), [dotfiles](https://github.com/paulmillr/dotfiles), [brunch](https://github.com/brunch/brunch), [es6-shim](https://github.com/paulmillr/es6-shim)
+- infra: [micro-should](https://github.com/paulmillr/micro-should), [micro-bmark](https://github.com/paulmillr/micro-bmark), [jsbt](https://github.com/paulmillr/jsbt)
+- others: [key-producer](https://github.com/paulmillr/micro-key-producer), [sr25519](https://github.com/paulmillr/micro-sr25519), [qr](https://github.com/paulmillr/qr), [packed](https://github.com/paulmillr/micro-packed), [micro-ftch](https://github.com/paulmillr/micro-ftch), [rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh), nostr [nip44](https://github.com/paulmillr/nip44)
+- os: [dotfiles](https://github.com/paulmillr/dotfiles), [encrypted-dns](https://github.com/paulmillr/encrypted-dns)
+- legacy: [chokidar](https://github.com/paulmillr/chokidar), [brunch](https://github.com/brunch/brunch), [es6-shim](https://github.com/paulmillr/es6-shim)
 - web apps: [nostr-spa](https://paulmillr.com/apps/nostr), [js-qr-scanner](https://paulmillr.com/apps/qr/), [steganography](https://paulmillr.com/apps/steg/), [ecc-calculator](https://paulmillr.com/noble/#demo)
 
 
