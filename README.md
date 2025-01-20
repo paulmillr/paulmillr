@@ -11,8 +11,7 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 - chains: [eth-signer](https://github.com/paulmillr/micro-eth-signer), [sol-signer](https://github.com/paulmillr/micro-sol-signer), [ordinals](https://github.com/paulmillr/micro-ordinals)
 - infra: [micro-should](https://github.com/paulmillr/micro-should) tests, [micro-bmark](https://github.com/paulmillr/micro-bmark) benchmarks, [jsbt](https://github.com/paulmillr/jsbt) build tool
 - os: [dotfiles](https://github.com/paulmillr/dotfiles), [encrypted-dns](https://github.com/paulmillr/encrypted-dns)
-- others: [key-producer](https://github.com/paulmillr/micro-key-producer), [sr25519](https://github.com/paulmillr/micro-sr25519), [qr](https://github.com/paulmillr/qr), [packed](https://github.com/paulmillr/micro-packed), [micro-ftch](https://github.com/paulmillr/micro-ftch), [rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh), nostr [nip44](https://github.com/paulmillr/nip44)
-- legacy: [chokidar](https://github.com/paulmillr/chokidar), [brunch](https://github.com/brunch/brunch), [es6-shim](https://github.com/paulmillr/es6-shim)
+- others: [key-producer](https://github.com/paulmillr/micro-key-producer), [sr25519](https://github.com/paulmillr/micro-sr25519), [qr](https://github.com/paulmillr/qr), [packed](https://github.com/paulmillr/micro-packed), [micro-ftch](https://github.com/paulmillr/micro-ftch), [rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh), nostr [nip44](https://github.com/paulmillr/nip44), [chokidar](https://github.com/paulmillr/chokidar), [brunch](https://github.com/brunch/brunch), [es6-shim](https://github.com/paulmillr/es6-shim)
 - web apps: [nostr-spa](https://paulmillr.com/apps/nostr), [js-qr-scanner](https://paulmillr.com/apps/qr/), [steganography](https://paulmillr.com/apps/steg/), [ecc-calculator](https://paulmillr.com/noble/#demo)
 
 
