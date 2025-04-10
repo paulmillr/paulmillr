@@ -14,7 +14,7 @@ Check out my [blog](https://paulmillr.com), ping me on [X.com](https://x.com/pau
 - infra: [micro-should](https://github.com/paulmillr/micro-should) tests, [micro-bmark](https://github.com/paulmillr/micro-bmark) benchmarks, [jsbt](https://github.com/paulmillr/jsbt) build tool
 - os: [dotfiles](https://github.com/paulmillr/dotfiles), [encrypted-dns](https://github.com/paulmillr/encrypted-dns)
 - encryption: [key-producer](https://github.com/paulmillr/micro-key-producer), [micro-zkproofs](https://github.com/paulmillr/micro-zkproofs), [rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh), nostr [nip44](https://github.com/paulmillr/nip44), [sr25519](https://github.com/paulmillr/micro-sr25519)
-- others: [qr](https://github.com/paulmillr/qr), [packed](https://github.com/paulmillr/micro-packed), [ftch](https://github.com/paulmillr/micro-ftch), [wrkr](https://github.com/paulmillr/micro-wrkr), [chokidar](https://github.com/paulmillr/chokidar), [brunch](https://github.com/brunch/brunch), [es6-shim](https://github.com/paulmillr/es6-shim)
+- others: [qr](https://github.com/paulmillr/qr), [packed](https://github.com/paulmillr/micro-packed), [ftch](https://github.com/paulmillr/micro-ftch), [wrkr](https://github.com/paulmillr/micro-wrkr), [chokidar](https://github.com/paulmillr/chokidar)
 - web apps: [nostr-spa](https://paulmillr.com/apps/nostr), [esplr](https://paulmillr.com/apps/esplr), [js-qr-scanner](https://paulmillr.com/apps/qr/), [steganography](https://paulmillr.com/apps/steg/), [ecc-calculator](https://paulmillr.com/noble/#demo)
 
 
