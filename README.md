@@ -17,7 +17,7 @@ Check out my [blog](https://paulmillr.com), ping me on [X.com](https://x.com/pau
 - web apps: [nostr-spa](https://paulmillr.com/apps/nostr), [esplr](https://paulmillr.com/apps/esplr), [js-qr-scanner](https://paulmillr.com/apps/qr/), [steganography](https://paulmillr.com/apps/steg/), [ecc-calculator](https://paulmillr.com/noble/#demo)
 
 
-Signed backups: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup) / [codeberg](https://codeberg.org/paulmillr)
+Signed backups: [github](https://github.com/paulmillr/backup), [gitlab](https://gitlab.com/paulmillr/backup), [codeberg](https://codeberg.org/paulmillr).
 
 
 ### Status
