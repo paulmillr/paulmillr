@@ -13,7 +13,7 @@ Check out my [blog](https://paulmillr.com), ping me on [X.com](https://x.com/pau
 - chains: [eth-signer](https://github.com/paulmillr/micro-eth-signer), [sol-signer](https://github.com/paulmillr/micro-sol-signer), [ordinals](https://github.com/paulmillr/micro-ordinals), [esplr](https://github.com/paulmillr/esplr)
 - encryption: [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [key-producer](https://github.com/paulmillr/micro-key-producer), [zk-proofs](https://github.com/paulmillr/micro-zk-proofs), [rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh), [nip44](https://github.com/paulmillr/nip44)
 - others: [qr](https://github.com/paulmillr/qr), [jsbt](https://github.com/paulmillr/jsbt), [packed](https://github.com/paulmillr/micro-packed), [ftch](https://github.com/paulmillr/micro-ftch), [wrkr](https://github.com/paulmillr/micro-wrkr), [chokidar](https://github.com/paulmillr/chokidar), [dotfiles](https://github.com/paulmillr/dotfiles)
-- web apps: [nostr](https://paulmillr.com/apps/nostr), [esplr](https://paulmillr.com/apps/esplr), [qr](https://paulmillr.com/apps/qr/), [steg](https://paulmillr.com/apps/steg/)
+- apps: [nostr](https://paulmillr.com/apps/nostr), [esplr](https://paulmillr.com/apps/esplr), [qr](https://paulmillr.com/apps/qr/), [steg](https://paulmillr.com/apps/steg/)
 
 
 Signed backups: [github](https://github.com/paulmillr/backup), [gitlab](https://gitlab.com/paulmillr/backup), [codeberg](https://codeberg.org/paulmillr).
