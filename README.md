@@ -6,7 +6,7 @@ Check out my [blog](https://paulmillr.com), ping me on [X.com](https://x.com/pau
 
 🔭 I’m currently working on:
 
-- [**noble**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes), [post-quantum](https://github.com/paulmillr/noble-post-quantum),
+- [**noble**](https://paulmillr.com/noble/) cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves), [hashes](https://github.com/paulmillr/noble-hashes), [post-quantum](https://github.com/paulmillr/noble-post-quantum),
   5kb [secp256k1](https://github.com/paulmillr/noble-secp256k1) /
   [ed25519](https://github.com/paulmillr/noble-ed25519)
 - **scure** audited micro-libraries — [base](https://github.com/paulmillr/scure-base), [bip32](https://github.com/paulmillr/scure-bip32), [bip39](https://github.com/paulmillr/scure-bip39), [btc-signer](https://github.com/paulmillr/scure-btc-signer), [sr25519](https://github.com/paulmillr/scure-sr25519), [starknet](https://github.com/paulmillr/scure-starknet)
