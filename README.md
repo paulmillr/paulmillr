@@ -22,6 +22,7 @@ Signed backups: [github](https://github.com/paulmillr/backup), [gitlab](https://
 
 ### Status table
 
+
 | Project | NPM    | JSR | CI | Misc |
 |---------|--------|-----|----|------|
 | [noble-ciphers](https://github.com/paulmillr/noble-ciphers) | [![NPM Version](https://img.shields.io/npm/v/@noble/ciphers)](https://www.npmjs.com/package/@noble/ciphers) | [![JSR version](https://jsr.io/badges/@noble/ciphers)](https://jsr.io/@noble/ciphers) [![JSR Score](https://jsr.io/badges/@noble/ciphers/score)](https://jsr.io/@noble/ciphers) | [![noble-ciphers](https://github.com/paulmillr/noble-ciphers/actions/workflows/test-ts.yml/badge.svg)](https://github.com/paulmillr/noble-ciphers/actions/workflows/test-ts.yml) | [![noble-ciphers](https://github.com/paulmillr/noble-ciphers/actions/workflows/test-ts.yml/badge.svg)](https://github.com/paulmillr/noble-ciphers/actions/workflows/test-ts.yml) |
