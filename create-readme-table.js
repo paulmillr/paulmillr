@@ -27,16 +27,17 @@ const gh_jsr = {
   "micro-wrkr": "@paulmillr/micro-wrkr",
 };
 const misc_list = {
-  "noble-hashes": gh_action("noble-hashes", "test-slow.yml", "Run slow tests"),
-  "noble-ciphers": gh_action(
+  "noble-hashes": ci_info("noble-hashes", "test-slow.yml", "Slow tests"),
+  "noble-ciphers": ci_info(
     "noble-ciphers",
     "test-slow.yml",
-    "Run slow tests"
+    "Slow tests"
   ),
-  "scure-btc-signer": gh_action(
+  "noble-post-quantum": ci_info("noble-post-quantum", "test-slow.yml", "Slow tests"),
+  "scure-btc-signer": ci_info(
     "scure-btc-signer",
     "test-slow.yml",
-    "Run slow tests"
+    "Slow tests"
   ),
 };
 function buildTable(list) {
@@ -48,8 +49,9 @@ ${strs}
 `);
 }
 
-function gh_action(pkg, actionFile, name = "") {
-  return `[![${name}](https://github.com/${user}/${pkg}/actions/workflows/${actionFile}/badge.svg)](https://github.com/${user}/${pkg}/actions/workflows/${actionFile})`;
+function ci_info(pkg) {
+  const actionFile = ['micro-wrkr', 'micro-zk-proofs'].includes(pkg) ? 'test-js.yml' : 'test-ts.yml';
+  return `[![${pkg}](https://github.com/${user}/${pkg}/actions/workflows/${actionFile}/badge.svg)](https://github.com/${user}/${pkg}/actions/workflows/${actionFile})`;
 }
 
 function npm_info(pkg) {
@@ -68,9 +70,8 @@ function jsr_info(pkg) {
  * @returns string
  */
 function badges(pkg) {
-  const ci = gh_action(pkg, "test-ts.yml", "Run TS tests");
   const misc = misc_list[pkg] ?? "";
-  return `| [${pkg}](https://github.com/${user}/${pkg}) | ${npm_info(pkg)} | ${jsr_info(pkg)} | ${ci} | ${misc} |`;
+  return `| [${pkg}](https://github.com/${user}/${pkg}) | ${npm_info(pkg)} | ${jsr_info(pkg)} | ${ci_info(pkg)} | ${misc} |`;
 }
 
 buildTable(Object.keys(gh_jsr));
