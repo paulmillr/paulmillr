@@ -62,7 +62,10 @@ function npm_info(pkg) {
 function jsr_info(pkg) {
   const jsr_name = gh_jsr[pkg];
   if (!jsr_name) return '';
-  return `[![JSR version](https://jsr.io/badges/${jsr_name})](https://jsr.io/${jsr_name}) [![JSR Score](https://jsr.io/badges/${jsr_name}/score)](https://jsr.io/${jsr_name})`;
+  const ver = `[![JSR version](https://jsr.io/badges/${jsr_name})](https://jsr.io/${jsr_name})`;
+  const score = `[![JSR Score](https://jsr.io/badges/${jsr_name}/score)](https://jsr.io/${jsr_name})`;
+  // skip score for now
+  return ver;
 }
 
 /**
