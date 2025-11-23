@@ -27,17 +27,15 @@ const gh_jsr = {
   "micro-wrkr": "@paulmillr/micro-wrkr",
 };
 const misc_list = {
-  "noble-hashes": ci_info("noble-hashes", "test-slow.yml", "Slow tests"),
+  "noble-hashes": ci_info("noble-hashes", "test-slow.yml"),
   "noble-ciphers": ci_info(
     "noble-ciphers",
-    "test-slow.yml",
-    "Slow tests"
+    "test-slow.yml"
   ),
-  "noble-post-quantum": ci_info("noble-post-quantum", "test-slow.yml", "Slow tests"),
+  "noble-post-quantum": ci_info("noble-post-quantum", "test-slow.yml"),
   "scure-btc-signer": ci_info(
     "scure-btc-signer",
-    "test-slow.yml",
-    "Slow tests"
+    "test-slow.yml"
   ),
 };
 function buildTable(list) {
@@ -49,8 +47,8 @@ ${strs}
 `);
 }
 
-function ci_info(pkg) {
-  const actionFile = ['micro-wrkr', 'micro-zk-proofs'].includes(pkg) ? 'test-js.yml' : 'test-ts.yml';
+function ci_info(pkg, actionFile = undefined) {
+  if (actionFile == null) actionFile = ['micro-wrkr', 'micro-zk-proofs'].includes(pkg) ? 'test-js.yml' : 'test-ts.yml';
   return `[![${pkg}](https://github.com/${user}/${pkg}/actions/workflows/${actionFile}/badge.svg)](https://github.com/${user}/${pkg}/actions/workflows/${actionFile})`;
 }
 
