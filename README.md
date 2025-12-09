@@ -4,11 +4,12 @@ I make projects which help developers to build awesome things. I adore learning 
 
 Check out my [blog](https://paulmillr.com), ping me on [X.com](https://x.com/paulmillr), [nostr](https://paulmillr.com/apps/nostr/#/user/npub10jcnehsxwrjepupvh602pl83up0dh3wv3fqfwv062smygqvpeuwsk03kag) or send me an email. My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt). You could fund my work with [sponsorship](https://github.com/sponsors/paulmillr/).
 
+Signed backups of my profile can be downloaded from [github](https://github.com/paulmillr/backup), [gitlab](https://gitlab.com/paulmillr/backup), [codeberg](https://codeberg.org/paulmillr).
+
 🔭 I’m currently working on:
 
 - [**noble**](https://paulmillr.com/noble/) cryptography, **scure** audited micro-libraries
-- [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [jsbt](https://github.com/paulmillr/jsbt), [nip44](https://github.com/paulmillr/nip44), [dotfiles](https://github.com/paulmillr/dotfiles)
-- backups: [github](https://github.com/paulmillr/backup), [gitlab](https://gitlab.com/paulmillr/backup), [codeberg](https://codeberg.org/paulmillr)
+- [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [jsbt](https://github.com/paulmillr/jsbt), [chokidar](https://github.com/paulmillr/chokidar), [nip44](https://github.com/paulmillr/nip44), [dotfiles](https://github.com/paulmillr/dotfiles)
 - and a few other projects
 
 ---
