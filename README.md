@@ -44,8 +44,8 @@ Check out my [blog](https://paulmillr.com), ping me on [X.com](https://x.com/pau
 
 ### Web apps
 
-| Title | Repo                                              | Site                                               | Info                           |
-|-------|---------------------------------------------------|----------------------------------------------------|--------------------------------|
-| esplr | [GitHub](https://github.com/paulmillr/esplr/)     | [/apps/esplr]( https://paulmillr.com/apps/esplr/ ) | ETH archive node explorer      |
-| nostr | [GitHub](https://github.com/paulmillr/nostr-spa/) | [/apps/nostr]( https://paulmillr.com/apps/nostr/ ) | Privacy-oriented nostr client  |
-| qr    | [GitHub](https://github.com/paulmillr/qr/)        | [/apps/esplr]( https://paulmillr.com/apps/qr/ )    | Pure JS QR generator & scanner |
+| Repo                                                 | Site                                               | Info                           |
+|------------------------------------------------------|----------------------------------------------------|--------------------------------|
+| [esplr](https://github.com/paulmillr/esplr/)         | [/apps/esplr]( https://paulmillr.com/apps/esplr/ ) | ETH archive node explorer      |
+| [nostr-spa](https://github.com/paulmillr/nostr-spa/) | [/apps/nostr]( https://paulmillr.com/apps/nostr/ ) | Privacy-oriented nostr client  |
+| [qr](https://github.com/paulmillr/qr/)               | [/apps/esplr]( https://paulmillr.com/apps/qr/ )    | Pure JS QR generator & scanner |
