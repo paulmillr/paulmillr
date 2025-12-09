@@ -16,11 +16,14 @@ const gh_jsr = {
   "scure-sr25519": "@scure/sr25519",
 
   qr: "@paulmillr/qr",
+  chokidar: "@paulmillr/chokidar",
 
   "micro-eth-signer": "@paulmillr/micro-eth-signer",
   "micro-sol-signer": "@paulmillr/micro-sol-signer",
   "micro-key-producer": "@paulmillr/micro-key-producer",
   "micro-zk-proofs": "@paulmillr/micro-zk-proofs",
+  "micro-rsa-dsa-dh": "@paulmillr/micro-rsa-dsa-dh",
+
   "micro-ordinals": "@paulmillr/micro-ordinals",
   "micro-packed": "@paulmillr/micro-packed",
   "micro-ftch": "@paulmillr/micro-ftch",
