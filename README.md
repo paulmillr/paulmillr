@@ -9,8 +9,7 @@ Signed backups of my profile can be downloaded from [github](https://github.com/
 🔭 I’m currently working on:
 
 - [**noble**](https://paulmillr.com/noble/) cryptography, **scure** audited micro-libraries
-- [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [jsbt](https://github.com/paulmillr/jsbt), [chokidar](https://github.com/paulmillr/chokidar), [nip44](https://github.com/paulmillr/nip44), [dotfiles](https://github.com/paulmillr/dotfiles)
-- and a few other projects
+- [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [jsbt](https://github.com/paulmillr/jsbt), [chokidar](https://github.com/paulmillr/chokidar), [nip44](https://github.com/paulmillr/nip44), [dotfiles](https://github.com/paulmillr/dotfiles), and a few other projects
 
 ---
 
