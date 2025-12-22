@@ -45,4 +45,4 @@ Signed backups of my profile can be downloaded from [github](https://github.com/
 |------------------------------------------------------|----------------------------------------------------|--------------------------------|
 | [esplr](https://github.com/paulmillr/esplr/)         | [/apps/esplr]( https://paulmillr.com/apps/esplr/ ) | ETH archive node explorer      |
 | [nostr-spa](https://github.com/paulmillr/nostr-spa/) | [/apps/nostr]( https://paulmillr.com/apps/nostr/ ) | Privacy-oriented nostr client  |
-| [qr](https://github.com/paulmillr/qr/)               | [/apps/esplr]( https://paulmillr.com/apps/qr/ )    | Pure JS QR generator & scanner |
+| [qr](https://github.com/paulmillr/qr/)               | [/apps/qr]( https://paulmillr.com/apps/qr/ )    | Pure JS QR generator & scanner |
