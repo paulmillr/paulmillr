@@ -8,6 +8,8 @@ const gh_jsr = {
   "noble-secp256k1": "@noble/secp256k1",
   "noble-ed25519": "@noble/ed25519",
 
+  "awasm-noble": "@awasm/noble",
+
   "scure-base": "@scure/base",
   "scure-bip32": "@scure/bip32",
   "scure-bip39": "@scure/bip39",
