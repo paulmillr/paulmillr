@@ -53,7 +53,7 @@ ${strs}
 }
 
 function ci_info(pkg, actionFile = undefined) {
-  if (actionFile == null) actionFile = ['micro-wrkr', 'micro-zk-proofs'].includes(pkg) ? 'test-js.yml' : 'test-ts.yml';
+  if (actionFile == null) actionFile = 'test-ts.yml';
   return `[![${pkg}](https://github.com/${user}/${pkg}/actions/workflows/${actionFile}/badge.svg)](https://github.com/${user}/${pkg}/actions/workflows/${actionFile})`;
 }
 
