@@ -40,14 +40,3 @@ Signed backups of my profile can be downloaded from [github](https://github.com/
 | [micro-packed](https://github.com/paulmillr/micro-packed) | [![NPM Version](https://img.shields.io/npm/v/micro-packed)](https://www.npmjs.com/package/micro-packed) | [![JSR version](https://jsr.io/badges/@paulmillr/micro-packed)](https://jsr.io/@paulmillr/micro-packed) | [![micro-packed](https://github.com/paulmillr/micro-packed/actions/workflows/test.yml/badge.svg)](https://github.com/paulmillr/micro-packed/actions/workflows/test.yml) |  |
 | [micro-ftch](https://github.com/paulmillr/micro-ftch) | [![NPM Version](https://img.shields.io/npm/v/micro-ftch)](https://www.npmjs.com/package/micro-ftch) | [![JSR version](https://jsr.io/badges/@paulmillr/micro-ftch)](https://jsr.io/@paulmillr/micro-ftch) | [![micro-ftch](https://github.com/paulmillr/micro-ftch/actions/workflows/test.yml/badge.svg)](https://github.com/paulmillr/micro-ftch/actions/workflows/test.yml) |  |
 | [micro-wrkr](https://github.com/paulmillr/micro-wrkr) | [![NPM Version](https://img.shields.io/npm/v/micro-wrkr)](https://www.npmjs.com/package/micro-wrkr) | [![JSR version](https://jsr.io/badges/@paulmillr/micro-wrkr)](https://jsr.io/@paulmillr/micro-wrkr) | [![micro-wrkr](https://github.com/paulmillr/micro-wrkr/actions/workflows/test.yml/badge.svg)](https://github.com/paulmillr/micro-wrkr/actions/workflows/test.yml) |  |
-
-
-
-### Web apps
-
-
-| Repo                                                 | Site                                               | Info                           |
-|------------------------------------------------------|----------------------------------------------------|--------------------------------|
-| [esplr](https://github.com/paulmillr/esplr/)         | [/apps/esplr]( https://paulmillr.com/apps/esplr/ ) | ETH archive node explorer      |
-| [nostr-spa](https://github.com/paulmillr/nostr-spa/) | [/apps/nostr]( https://paulmillr.com/apps/nostr/ ) | Privacy-oriented nostr client  |
-| [qr](https://github.com/paulmillr/qr/)               | [/apps/qr]( https://paulmillr.com/apps/qr/ )    | Pure JS QR generator & scanner |
