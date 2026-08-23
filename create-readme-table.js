@@ -18,7 +18,6 @@ const gh_jsr = {
   "scure-sr25519": "@scure/sr25519",
 
   qr: "@paulmillr/qr",
-  //chokidar: "@paulmillr/chokidar",
 
   "micro-eth-signer": "@paulmillr/micro-eth-signer",
   "micro-sol-signer": "@paulmillr/micro-sol-signer",
@@ -32,6 +31,7 @@ const gh_jsr = {
 };
 const misc_list = {
   "noble-hashes": ci_info("noble-hashes", "test-slow.yml"),
+  "noble-curves": ci_info("noble-curves", "test-slow.yml"),
   "noble-ciphers": ci_info(
     "noble-ciphers",
     "test-slow.yml"
