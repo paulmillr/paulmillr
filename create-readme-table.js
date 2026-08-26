@@ -30,13 +30,13 @@ const gh_jsr = {
   "micro-wrkr": "@paulmillr/micro-wrkr",
 };
 const misc_list = {
-  "noble-hashes": ci_info("noble-hashes", "test-slow.yml"),
-  "noble-curves": ci_info("noble-curves", "test-slow.yml"),
+  "noble-hashes": ci_info("noble-hashes", "fuzz.yml"),
+  "noble-curves": ci_info("noble-curves", "fuzz.yml"),
   "noble-ciphers": ci_info(
     "noble-ciphers",
-    "test-slow.yml"
+    "fuzz.yml"
   ),
-  "noble-post-quantum": ci_info("noble-post-quantum", "test-slow.yml"),
+  "noble-post-quantum": ci_info("noble-post-quantum", "fuzz.yml"),
   "scure-btc-signer": ci_info(
     "scure-btc-signer",
     "test-slow.yml"
