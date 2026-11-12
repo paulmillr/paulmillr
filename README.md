@@ -9,8 +9,7 @@ Signed backups of my profile can be downloaded from [github](https://github.com/
 🔭 I’m currently working on:
 
 - [**Dispatch**](https://github.com/paulmillr/dispatch) - macOS terminal app with Chat Mode and native tmux/herdr tabs
-- [**noble**](https://paulmillr.com/noble/) cryptography, [**scure**](https://paulmillr.com/noble/#scure) audited micro-libraries
-- A few other projects like [chokidar](https://github.com/paulmillr/chokidar), [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [nip44](https://github.com/paulmillr/nip44), [dotfiles](https://github.com/paulmillr/dotfiles)
+- [**noble**](https://paulmillr.com/noble/) cryptography, [**scure**](https://paulmillr.com/noble/#scure) micro-libraries, [chokidar](https://github.com/paulmillr/chokidar), [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [nip44](https://github.com/paulmillr/nip44), [dotfiles](https://github.com/paulmillr/dotfiles)
 
 ---
 
